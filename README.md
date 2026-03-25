@@ -1,4 +1,4 @@
-# Excel Killer 2 (DataChat)
+# DataChat
 
 AI-powered SaaS MVP for spreadsheet analysis.
 Upload CSV/Excel files, ask natural-language questions, and receive instant insights with charts.
