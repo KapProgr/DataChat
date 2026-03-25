@@ -1,4 +1,4 @@
-# Excel Killer 2 (DataChat) - Startup Brief
+# DataChat - Startup Brief
 
 ## One-Liner
 AI copilot for spreadsheet analysis that turns plain-English questions into instant insights and charts.

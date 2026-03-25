@@ -17,7 +17,7 @@ load_dotenv()
 from app.services.ai_service import call_ai_for_query, repair_generated_code
 from app.api.routes import user
 
-app = FastAPI(title="Excel Killer API - Production")
+app = FastAPI(title="DataChat API - Production")
 
 # Include routers
 app.include_router(user.router, prefix="/api/user", tags=["user"])
@@ -292,7 +292,7 @@ async def verify_user(authorization: str = Header(None)):
 @app.get("/")
 def root():
     return {
-        "message": "Excel Killer API is running!",
+        "message": "DataChat API is running!",
         "version": "2.0.0",
         "status": "production-ready"
     }

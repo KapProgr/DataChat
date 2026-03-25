@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thanks for your interest in contributing to Excel Killer 2 (DataChat).
+Thanks for your interest in contributing to DataChat.
 This project is currently in MVP stage, so we optimize for fast iteration and clear communication.
 
 ## Ground Rules

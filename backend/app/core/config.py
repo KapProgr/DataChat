@@ -30,7 +30,7 @@ class Settings:
     GROK_MODEL: str
 
     def __init__(self) -> None:
-        self.APP_NAME = os.getenv("APP_NAME", "Excel Killer API")
+        self.APP_NAME = os.getenv("APP_NAME", "DataChat API")
         self.ENVIRONMENT = os.getenv("ENVIRONMENT", "local")
 
         self.DATABASE_URL = os.getenv("DATABASE_URL", "")
