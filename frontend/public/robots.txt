@@ -1,0 +1,10 @@
+# robots.txt for DataChat
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://datachat.app/sitemap.xml
+
+# Disallow admin and API routes
+Disallow: /api/
+Disallow: /dashboard/
